@@ -1,0 +1,529 @@
+,MODEL,OPERATING_SYSTEM,SCREAN_SIZE,LAUNCH_YEAR,DISPLAY_TYPE,RATING,PRICE,ORG_PRICE,DISCOUNT,count_rating,count_review
+0,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+1,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+2,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+3,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+4,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+5,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+6,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+7,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+8,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+9,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+10,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+11,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+12,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+13,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+14,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+15,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+16,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+17,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+18,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+19,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+20,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+21,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+22,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+23,thomson alpha qled , Linux,40,2025,QLED,4.0,12999,19999,35,455.0,79.0
+24,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+25,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+26,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+27,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+28,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+29,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+30,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+31,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+32,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+33,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+34,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+35,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+36,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+37,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+38,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+39,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+40,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+41,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+42,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+43,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+44,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+45,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+46,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+47,thomson alpha qled , Linux,40,2025,QLED,4.0,12999,19999,35,455.0,79.0
+48,xiaomi x pro cinemagiqled , Google,43,2025,QLED,4.0,31999,49999,36,972.0,66.0
+49,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+50,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+51,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+52,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+53,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+54,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+55,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+56,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+57,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+58,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+59,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+60,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+61,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+62,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+63,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+64,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+65,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+66,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+67,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+68,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+69,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+70,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+71,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+72,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+73,realme techlife , Google,43,2025,QLED,4.1,20499,52999,61,116.0,11.0
+74,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+75,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+76,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+77,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+78,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+79,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+80,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+81,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+82,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+83,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+84,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+85,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+86,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+87,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+88,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+89,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+90,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+91,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+92,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+93,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+94,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+95,thomson alpha qled , Linux,40,2025,QLED,4.0,12999,19999,35,455.0,79.0
+96,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+97,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+98,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+99,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+100,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+101,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+102,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+103,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+104,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+105,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+106,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+107,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+108,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+109,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+110,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+111,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+112,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+113,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+114,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+115,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+116,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+117,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+118,thomson alpha qled , Linux,40,2025,QLED,4.0,12999,19999,35,455.0,79.0
+119,infinix y1 plus , Linux,32,2024,LED,3.9,7999,16999,52,1704.0,135.0
+120,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+121,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+122,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+123,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+124,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+125,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+126,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+127,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+128,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+129,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+130,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+131,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+132,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+133,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+134,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+135,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+136,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+137,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+138,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+139,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+140,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+141,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+142,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+143,thomson alpha qled , Linux,40,2025,QLED,4.0,12999,19999,35,455.0,79.0
+144,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+145,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+146,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+147,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+148,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+149,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+150,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+151,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+152,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+153,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+154,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+155,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+156,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+157,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+158,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+159,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+160,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+161,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+162,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+163,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+164,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+165,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+166,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+167,thomson alpha qled , Linux,40,2025,QLED,4.0,12999,19999,35,455.0,79.0
+168,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+169,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+170,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+171,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+172,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+173,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+174,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+175,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+176,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+177,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+178,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+179,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+180,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+181,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+182,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+183,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+184,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+185,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+186,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+187,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+188,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+189,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+190,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+191,thomson alpha qled , Linux,40,2025,QLED,4.0,12999,19999,35,455.0,79.0
+192,xiaomi x pro cinemagiqled , Google,43,2025,QLED,4.0,31999,49999,36,972.0,66.0
+193,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+194,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+195,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+196,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+197,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+198,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+199,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+200,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+201,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+202,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+203,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+204,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+205,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+206,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+207,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+208,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+209,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+210,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+211,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+212,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+213,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+214,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+215,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+216,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+217,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+218,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+219,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+220,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+221,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+222,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+223,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+224,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+225,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+226,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+227,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+228,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+229,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+230,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+231,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+232,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+233,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+234,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+235,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+236,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+237,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+238,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+239,thomson alpha qled , Linux,40,2025,QLED,4.0,12999,19999,35,455.0,79.0
+240,xiaomi x pro cinemagiqled , Google,43,2025,QLED,4.0,31999,49999,36,972.0,66.0
+241,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+242,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+243,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+244,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+245,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+246,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+247,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+248,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+249,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+250,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+251,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+252,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+253,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+254,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+255,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+256,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+257,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+258,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+259,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+260,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+261,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+262,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+263,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+264,xiaomi x pro cinemagiqled , Google,43,2025,QLED,4.0,31999,49999,36,972.0,66.0
+265,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+266,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+267,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+268,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+269,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+270,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+271,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+272,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+273,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+274,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+275,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+276,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+277,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+278,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+279,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+280,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+281,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+282,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+283,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+284,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+285,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+286,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+287,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+288,xiaomi x pro cinemagiqled , Google,43,2025,QLED,4.0,31999,49999,36,972.0,66.0
+289,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+290,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+291,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+292,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+293,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+294,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+295,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+296,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+297,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+298,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+299,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+300,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+301,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+302,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+303,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+304,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+305,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+306,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+307,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+308,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+309,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+310,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+311,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+312,xiaomi x pro cinemagiqled , Google,43,2025,QLED,4.0,31999,49999,36,972.0,66.0
+313,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+314,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+315,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+316,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+317,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+318,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+319,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+320,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+321,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+322,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+323,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+324,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+325,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+326,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+327,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+328,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+329,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+330,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+331,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+332,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+333,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+334,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+335,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+336,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+337,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+338,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+339,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+340,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+341,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+342,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+343,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+344,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+345,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+346,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+347,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+348,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+349,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+350,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+351,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+352,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+353,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+354,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+355,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+356,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+357,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+358,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+359,thomson alpha qled , Linux,40,2025,QLED,4.0,12999,19999,35,455.0,79.0
+360,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+361,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+362,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+363,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+364,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+365,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+366,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+367,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+368,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+369,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+370,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+371,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+372,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+373,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+374,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+375,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+376,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+377,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+378,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+379,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+380,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+381,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+382,thomson alpha qled , Linux,40,2025,QLED,4.0,12999,19999,35,455.0,79.0
+383,infinix y1 plus , Linux,32,2024,LED,3.9,7999,16999,52,1704.0,135.0
+384,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+385,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+386,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+387,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+388,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+389,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+390,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+391,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+392,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+393,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+394,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+395,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+396,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+397,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+398,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+399,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+400,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+401,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+402,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+403,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+404,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+405,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+406,thomson alpha qled , Linux,40,2025,QLED,4.0,12999,19999,35,455.0,79.0
+407,infinix y1 plus , Linux,32,2024,LED,3.9,7999,16999,52,1704.0,135.0
+408,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+409,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+410,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+411,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+412,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+413,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+414,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+415,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+416,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+417,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+418,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+419,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+420,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+421,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+422,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+423,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+424,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+425,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+426,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+427,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+428,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+429,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+430,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+431,thomson alpha qled , Linux,40,2025,QLED,4.0,12999,19999,35,455.0,79.0
+432,xiaomi x pro cinemagiqled , Google,43,2025,QLED,4.0,31999,49999,36,972.0,66.0
+433,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+434,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+435,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+436,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+437,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+438,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+439,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+440,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+441,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+442,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+443,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+444,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+445,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+446,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+447,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+448,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+449,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+450,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+451,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+452,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+453,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+454,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+455,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+456,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+457,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+458,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+459,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+460,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+461,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+462,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+463,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+464,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+465,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+466,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+467,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+468,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+469,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+470,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+471,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+472,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+473,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+474,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+475,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+476,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+477,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+478,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+479,thomson alpha qled , Linux,40,2025,QLED,4.0,12999,19999,35,455.0,79.0
+480,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+481,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+482,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+483,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+484,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+485,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+486,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+487,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+488,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+489,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+490,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+491,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+492,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+493,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+494,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+495,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+496,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+497,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+498,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+499,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+500,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+501,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+502,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
+503,thomson alpha qled , Linux,40,2025,QLED,4.0,12999,19999,35,455.0,79.0
+504,xiaomi x pro cinemagiqled , Google,43,2025,QLED,4.0,31999,49999,36,972.0,66.0
+505,innoq spectra ,unknown,32,2024,LED,4.0,6990,24990,72,6037.0,687.0
+506,realme techlife , Google,43,2025,QLED,4.3,20499,52999,61,153.0,22.0
+507,infinix , Linux,32,2024,LED,4.2,7999,16999,52,55202.0,5606.0
+508,coocaa , Coolita,43,2024,LED,4.2,13499,29999,55,28046.0,3205.0
+509,foxsky , Android,32,2023,LED,4.1,6999,22499,68,6693.0,1574.0
+510,infinix , Google,32,2024,LED,4.1,9999,16999,41,2312.0,222.0
+511,iffalcon by tcl u64 , Google,50,2024,LED,4.2,22999,62990,63,77885.0,8435.0
+512,realme techlife cinesonic , Google,32,2025,QLED,4.1,8999,22999,60,3493.0,320.0
+513,iffalcon by tcl u65 , Google,55,2025,LED,4.2,27999,73990,62,77885.0,8435.0
+514,coocaa , Coolita,32,2024,LED,4.2,7499,19990,62,28046.0,3205.0
+515,iffalcon by tcl s55 80., Google,32,2025,LED,4.2,8999,19990,54,262.0,23.0
+516,innoq sounbar ,unknown,24,2024,LED,4.0,4985,19990,75,6037.0,687.0
+517,realme techlife cinesonic q , Google,32,2025,QLED,4.1,9499,23999,60,3493.0,320.0
+518,marq by flipkart ,unknown,24,2024,LED,4.1,4989,15000,66,7521.0,601.0
+519,mi by xiaomi x series , Google,55,2024,LED,4.3,36990,54999,32,127517.0,11534.0
+520,mi by xiaomi a series , Google,32,2024,LED,4.3,12490,24999,50,185977.0,14099.0
+521,foxsky , Android,24,2025,LED,4.1,5499,9990,44,52.0,6.0
+522,mi by xiaomi x series , Google,50,2023,LED,4.3,29999,44999,33,127517.0,11534.0
+523,thomson fa series , Android,40,2023,LED,4.3,14499,26999,46,124961.0,21730.0
+524,motorola , Google,43,2025,QLED,4.1,18499,43999,57,32.0,8.0
+525,innoq spectra , Android,43,2024,LED,4.0,12790,39990,68,6037.0,687.0
+526,thomson alpha , Linux,24,2023,LED,4.3,5999,9999,40,46820.0,6154.0
+527,iffalcon by tcl u65 , Google,43,2025,LED,4.2,18999,50990,62,77885.0,8435.0
